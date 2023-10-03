@@ -77,7 +77,7 @@
     "codemirror": "^5.16.0",
     "colors": "^1.1.2",
     "cross-env": "^2.0.0",
-    "css-loader": "^0.23.1",
+    "css-loader": "^6.8.1",
     "d3": "^3.5.17",
     "dom-helpers": "^3.2.0",
     "enzyme": "^3.1.0",
